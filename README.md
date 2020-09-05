@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 
+  我是张希铭，就读于福州大学，预计2022年毕业
+  会一些c，c++，java
+  喜欢交朋友，喜欢运动。
+  我的邮箱是575983567@qq.com，欢迎联系
 
 <!--
 **Franzzi-z/Franzzi-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
